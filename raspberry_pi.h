@@ -1,5 +1,5 @@
-#ifndef RASPBERRY_PI_H
-#define RASPBERRY_PI_H
+#ifndef RASPBERRYPI_H
+#define RASPBERRYPI_H
 
 #define PIN1	"POWER33V" 	/* 3.3 volt */
 #define PIN2	"POWER5V"	/* 5V */
